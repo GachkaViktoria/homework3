@@ -1,48 +1,48 @@
 .table {
-    border: 1px solid #000;
+    border: 1px solid #b9c73b;
     width: 75%;
     border-spacing: 0px;
     margin: auto;
 }
 .table2 {
-    border: 1px solid #000;
+    border: 1px solid #ad2739;
     width: 80%;
     border-spacing: 0px;
     margin: auto;
     margin-bottom: 20px;
 }
 .td {
-    border: 1px solid #000;
+    border: 1px solid #a24ad4;
     height: 50px;
     width: 33%;
     text-align: center;
 }
 .td56 {
-    border: 1px solid #000;
+    border: 1px solid #8a2273;
     height: 200px;
     width: 33%;
     text-align: center;
 }
 .td3 {
-    border: 1px solid #000;
+    border: 1px solid #3bdf51;
     height: 50px;
     width: 60%;
     text-align: center;
 }
 .td12 {
-    border: 1px blueviolet #000;
+    border: 1px solid #006e8a;
     height: 50px;
     width: 20%;
     text-align: center;
 }
 .td47 {
-    border: 1px blueviolet #000;
+    border: 1px solid #b65b5b;
     height: 50px;
     width: 28%;
     text-align: center;
 }
 .td8 {
-    border: 1px blueviolet #000;
+    border: 1px solid #000;
     height: 50px;
     text-align: center;
 }
