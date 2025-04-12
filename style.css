@@ -1,0 +1,65 @@
+.table {
+    border: 1px solid #000;
+    width: 75%;
+    border-spacing: 0px;
+    margin: auto;
+}
+.table2 {
+    border: 1px solid #000;
+    width: 80%;
+    border-spacing: 0px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.td {
+    border: 1px solid #000;
+    height: 50px;
+    width: 33%;
+    text-align: center;
+}
+.td56 {
+    border: 1px solid #000;
+    height: 200px;
+    width: 33%;
+    text-align: center;
+}
+.td3 {
+    border: 1px solid #000;
+    height: 50px;
+    width: 60%;
+    text-align: center;
+}
+.td12 {
+    border: 1px solid #000;
+    height: 50px;
+    width: 20%;
+    text-align: center;
+}
+.td47 {
+    border: 1px solid #000;
+    height: 50px;
+    width: 28%;
+    text-align: center;
+}
+.td8 {
+    border: 1px solid #000;
+    height: 50px;
+    text-align: center;
+}
+
+.mon {
+    border: 2px solid #000;
+    width: 500px;
+    border-spacing: 0px;
+    margin: auto;
+}
+.tdmon {
+    border: 2px solid #000;
+    height: 33px;
+    width: 33px;
+}
+.tdmon1 {
+    border: 2px solid #000;
+    height: 66px;
+    width: 33px;
+}
